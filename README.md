@@ -1,2 +1,5 @@
-# hello-world
-My first test repository
+# Hello-world
+My first test repository.
+
+# About myself
+I am an undergraduate from SIST in Shanghaitech. Hope to have a good time in github. 
